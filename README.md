@@ -1,7 +1,7 @@
 <!-- =======================  DARK • NEON • FUTURE • GAMER  ======================= -->
 
 <p align="center">
-  <img src="BANNER.png" width="90%" alt="Dev Shubh Banner"/>
+  <img src="BANNER.png" width="92%" alt="Dev Shubh Banner"/>
 </p>
 
 <h1 align="center">⚡ DEV (SHUBH) ⚡</h1>
@@ -11,15 +11,23 @@
   <i>Funny by nature — Serious when it matters • Always learning • Always building</i>
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-9cf?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Mood-Dark%20Mode-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Neon%20Future-FF00FF?style=for-the-badge" />
+</p>
+
 ---
 
 ## ✨ About Me
 
 👨‍🎓 **BSc Computer Science — SY (Second Year)**  
 🧠 Passionate about **coding, creativity & problem solving**  
-😄 I’m **funny in real life — but when work matters, I switch to serious mode**  
-🌌 I love building **aesthetic & futuristic projects**  
-🚀 Always exploring new ways to improve myself  
+😄 **Funny in life — focused at work**  
+🌌 Love building **aesthetic & futuristic projects**  
+🚀 Always improving — one day at a time  
 
 > Real name = **Shubh**  
 > People call me = **Dev**
@@ -29,7 +37,7 @@
 ## 🛠 Tech Stack (Neon Mode)
 
 ```txt
-Languages I Use:
+Languages:
 ✔ Java
 ✔ Python
 ✔ JavaScript
@@ -37,7 +45,7 @@ Languages I Use:
 ✔ Dart
 ✔ C / C++
 
-Web Dev:
+Web:
 ✔ HTML
 ✔ CSS
 ✔ React (exploring)
@@ -54,6 +62,8 @@ Tools:
 ✔ VS Code
 ✔ Postman
 ✔ Figma
+✔ Firebase Console
+✔ Chrome DevTools
 
 🌱 Currently Learning
 
@@ -68,14 +78,15 @@ I believe in learning deeply — not just completing tutorials.
 🎯 What I Like Building
 
 ✨ Clean • Minimal • Futuristic UIs
-🛡️ Secure & efficient apps
-📱 Smooth, aesthetic mobile apps
-🎮 Fun & interactive projects
-🤖 Smart tools with AI logic
+🛡 Secure & Efficient Apps
+📱 Smooth & Aesthetic Mobile Apps
+🎮 Fun & Interactive Projects
+🤖 Smart Tools with AI Logic
 
 🎮 Gamer Mode Activated
 
 Yep — I’m a gamer too 😎
+
 Games I enjoy playing:
 
 🎮 GTA 5
@@ -86,34 +97,34 @@ Games I enjoy playing:
 
 Gaming taught me:
 
-✔ teamwork
-✔ focus
-✔ strategy
-✔ patience
-✔ never give up
+✔ Teamwork
+✔ Focus
+✔ Strategy
+✔ Patience
+✔ Never giving up
 
 🎥 Content Creator • 📸 Photographer
 
-🎥 I love creating & editing content
-📸 I enjoy capturing real-life moments & stories
+🎥 I enjoy creating & editing content
+📸 I love capturing moments & stories
 🎨 Creativity + Tech = My happy place
 
-Neon lights • Lo-Fi music • Coding late nights — that’s the vibe ✨
+🌌 Neon lights • 🎧 Lo-Fi music • 💻 Late-night coding — that’s the vibe ✨
 
 🚀 Upcoming Projects
 
-🛸 Futuristic UI apps
-🤖 AI-powered tools
-🔐 High-security applications
-🎨 Ultra-aesthetic websites & portfolios
+🛸 Futuristic UI Apps
+🤖 AI-Powered Tools
+🔐 High-Security Applications
+🎨 Ultra-Aesthetic Websites & Portfolios
 
 🌐 Portfolio
 
-🔗 My Portfolio — Coming Soon
-(I’ll add the link here once ready 🚀)
+🔗 Portfolio — Coming Soon
+(https://shubh74.github.io/shubh-portfolio/)
 
 📊 Neon GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubh74&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh74&theme=tokyonight" height="165"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubh74&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh74&theme=tokyonight&hide_border=true" height="165"/> </p>
 💫 My Developer Philosophy
 
 ✔ Build — Break — Fix — Learn
@@ -128,6 +139,6 @@ Neon lights • Lo-Fi music • Coding late nights — that’s the vibe ✨
 • ideas
 • tech & creativity discussions
 
-(Add your socials here)
+(Add your socials here ⬇️)
 
-<p align="center"> <img src="https://i.imgur.com/4M7YGfX.gif" width="260" alt="Neon Tech Gif"/> </p> <p align="center"> <b>“Future belongs to the ones who never stop learning.”</b> 💜 </p> <!-- ======================= END ======================= -->
+<p align="center"> <img src="https://i.imgur.com/4M7YGfX.gif" width="260" alt="Neon Tech Gif"/> </p> <p align="center"> <b>“The future belongs to the ones who never stop learning.”</b> 💜 </p> <!-- ======================= END ======================= -->
