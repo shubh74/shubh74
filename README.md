@@ -63,13 +63,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubh74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
 ## 🧩 Tech Universe
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,cpp,flutter,react,mysql,mongodb,github,git,figma,vscode&theme=dark" />
