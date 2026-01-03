@@ -52,6 +52,8 @@ Backend:
 Tools:
 ✔ Git & GitHub   ✔ VS Code   ✔ Postman   ✔ Figma   ✔ Firebase Console   ✔ Chrome DevTools
 
+
+🔥 Circular Skill Power Charts
 <p align="center"> <!-- Java --> <img src="https://svgshare.com/i/16tJ.svg" width="130"> <!-- Flutter --> <img src="https://svgshare.com/i/16tV.svg" width="130"> <!-- JavaScript --> <img src="https://svgshare.com/i/16u0.svg" width="130"> <!-- Python --> <img src="https://svgshare.com/i/16tW.svg" width="130"> </p> <p align="center"> <i>More skills leveling up every day 🚀</i> </p>
 
 🌱 Currently Learning
@@ -109,7 +111,7 @@ Gaming taught me:
 
 🌐 Portfolio
 
-🔗 Portfolio — Live Here
+🔗 Portfolio — Live Here:
 👉 https://shubh74.github.io/shubh-portfolio/
 
 📊 Neon GitHub Stats
@@ -134,20 +136,20 @@ Gaming taught me:
 
 ---
 
-## 🟣 About The Circular Skill Charts
-Those circles are **real SVG radial charts** — they:
+## 🟣 About The Circular Skill Charts (Explanation — NOT part of README)
+These charts are **SVG radial graphs**. They:
 
-✔ load super fast  
-✔ work natively in GitHub  
+✔ render directly inside GitHub  
+✔ are super-fast  
+✔ don’t need hosting  
 ✔ look futuristic  
-✔ require no hosting
 
 If you want, I can:
 
-🎨 customize chart colors  
-⚡ change % values  
+🎨 change colors  
+⚡ set **custom % values** (example: Flutter 85%)  
 🛸 add more skills  
-🕹️ add a “Gamer Rank” badge  
-📸 add a **Photography gallery-style section**
+🕹 add a **Gamer Rank badge**  
+📸 add a **Photography gallery section**
 
-Just tell me what % you want for each skill — I’ll generate **custom matching SVGs** for you 😎
+Just send me your **skill percentages** and I’ll make matching neon charts ✨
