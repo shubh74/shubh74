@@ -12,6 +12,8 @@
 </p>
 
 <br/>
+🔥 Circular Skill Power Charts
+<p align="center"> <!-- Java --> <img src="https://svgshare.com/i/16tJ.svg" width="130"> <!-- Flutter --> <img src="https://svgshare.com/i/16tV.svg" width="130"> <!-- JavaScript --> <img src="https://svgshare.com/i/16u0.svg" width="130"> <!-- Python --> <img src="https://svgshare.com/i/16tW.svg" width="130"> </p> <p align="center"> <i>More skills leveling up every day 🚀</i> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-9cf?style=for-the-badge&logo=github" />
@@ -53,8 +55,6 @@ Tools:
 ✔ Git & GitHub   ✔ VS Code   ✔ Postman   ✔ Figma   ✔ Firebase Console   ✔ Chrome DevTools
 
 
-🔥 Circular Skill Power Charts
-<p align="center"> <!-- Java --> <img src="https://svgshare.com/i/16tJ.svg" width="130"> <!-- Flutter --> <img src="https://svgshare.com/i/16tV.svg" width="130"> <!-- JavaScript --> <img src="https://svgshare.com/i/16u0.svg" width="130"> <!-- Python --> <img src="https://svgshare.com/i/16tW.svg" width="130"> </p> <p align="center"> <i>More skills leveling up every day 🚀</i> </p>
 
 🌱 Currently Learning
 
