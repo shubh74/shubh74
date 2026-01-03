@@ -65,6 +65,7 @@ Tools:
 ✔ Firebase Console
 ✔ Chrome DevTools
 
+
 🌱 Currently Learning
 
 🔥 Advanced Flutter UI / UX
@@ -120,8 +121,8 @@ Gaming taught me:
 
 🌐 Portfolio
 
-🔗 Portfolio — Coming Soon
-(https://shubh74.github.io/shubh-portfolio/)
+🔗 Live Portfolio
+👉 https://shubh74.github.io/shubh-portfolio/
 
 📊 Neon GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubh74&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh74&theme=tokyonight&hide_border=true" height="165"/> </p>
@@ -142,3 +143,13 @@ Gaming taught me:
 (Add your socials here ⬇️)
 
 <p align="center"> <img src="https://i.imgur.com/4M7YGfX.gif" width="260" alt="Neon Tech Gif"/> </p> <p align="center"> <b>“The future belongs to the ones who never stop learning.”</b> 💜 </p> <!-- ======================= END ======================= -->
+
+---
+
+### 🚀 If you want, I can still add:
+🟣 **Animated typing intro**  
+🟢 **Circular skill charts with real % values**  
+🕹 **Gamer rank / setup section**  
+📸 **Photography gallery card style**
+
+Just tell me your **skill % levels** (example: Flutter 80%, JS 70%, Java 90% etc.) and I’ll genera
