@@ -161,9 +161,12 @@ Gaming taught me:
 👉 https://shubh74.github.io/shubh-portfolio/
 
 ```
-📊 Neon GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubh74&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh74&theme=tokyonight&hide_border=true" height="165"/> </p>
-💫 My Developer Philosophy
+## 📊 Neon GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh74&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh74&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ```txt
 
@@ -181,8 +184,17 @@ Gaming taught me:
 
 ```
 
-<p align="center"> <img src="https://i.imgur.com/4M7YGfX.gif" width="260" alt="Neon Tech Gif"/> </p> <p align="center"> <b>“The future belongs to the ones who never stop learning.”</b> 💜 </p> <!-- ======================= END ======================= -->
+## 💫 My Developer Philosophy
 
+<p align="center">
+  <img src="https://i.imgur.com/4M7YGfX.gif" width="260" alt="Neon Tech Gif"/>
+</p>
+
+<p align="center">
+  <b>“The future belongs to the ones who never stop learning.”</b> 💜
+</p>
+
+<!-- ======================= END ======================= -->
 ---
 ```txt
 ## 🟣 About The Circular Skill Charts (Explanation — NOT part of README)
