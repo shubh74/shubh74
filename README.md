@@ -12,13 +12,87 @@
 </p>
 
 <br/>
-🔥 Circular Skill Power Charts
-<p align="center"> <!-- Java --> <img src="https://svgshare.com/i/16tJ.svg" width="130"> <!-- Flutter --> <img src="https://svgshare.com/i/16tV.svg" width="130"> <!-- JavaScript --> <img src="https://svgshare.com/i/16u0.svg" width="130"> <!-- Python --> <img src="https://svgshare.com/i/16tW.svg" width="130"> </p> <p align="center"> <i>More skills leveling up every day 🚀</i> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-9cf?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Mood-Dark%20Mode-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vibe-Neon%20Future-FF00FF?style=for-the-badge" />
+</p>
+## 🔥 Circular Skill Power Charts
+
+<p align="center">
+
+<!-- HTML -->
+<img src="https://svgshare.com/i/17C8.svg" width="120">
+
+<!-- JavaScript -->
+<img src="https://svgshare.com/i/17CX.svg" width="120">
+
+<!-- Python -->
+<img src="https://svgshare.com/i/17CS.svg" width="120">
+
+<!-- Java -->
+<img src="https://svgshare.com/i/17Bz.svg" width="120">
+
+</p>
+
+<p align="center">
+
+<!-- C++ -->
+<img src="https://svgshare.com/i/17C6.svg" width="120">
+
+<!-- C# -->
+<img src="https://svgshare.com/i/17C5.svg" width="120">
+
+<!-- Flutter -->
+<img src="https://svgshare.com/i/17Ca.svg" width="120">
+
+<!-- React Native -->
+<img src="https://svgshare.com/i/17Cb.svg" width="120">
+
+</p>
+
+<p align="center">
+
+<!-- MySQL -->
+<img src="https://svgshare.com/i/17C1.svg" width="120">
+
+<!-- PL/SQL -->
+<img src="https://svgshare.com/i/17C0.svg" width="120">
+
+<!-- MongoDB -->
+<img src="https://svgshare.com/i/17C2.svg" width="120">
+
+<!-- StarUML -->
+<img src="https://svgshare.com/i/17C3.svg" width="120">
+
+</p>
+
+<p align="center">
+  <i>Leveling up every day — one line of code at a time 🚀</i>
+</p>
+
+
+<p align="center">
+  <i>More skills leveling up every day 🚀</i>
+</p>
+
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh74&theme=tokyo-night" />
+</p>
+
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubh74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+## 🧩 Tech Universe
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,flutter,python,js,html,css,react,nodejs,firebase,github,git,figma,vscode&theme=dark" />
 </p>
 
 ---
