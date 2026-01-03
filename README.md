@@ -18,53 +18,35 @@
   <img src="https://img.shields.io/badge/Mood-Dark%20Mode-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vibe-Neon%20Future-FF00FF?style=for-the-badge" />
 </p>
+
+---
+
 ## 🔥 Circular Skill Power Charts
 
 <p align="center">
 
-<!-- HTML -->
-<img src="https://svgshare.com/i/17C8.svg" width="120">
-
-<!-- JavaScript -->
-<img src="https://svgshare.com/i/17CX.svg" width="120">
-
-<!-- Python -->
-<img src="https://svgshare.com/i/17CS.svg" width="120">
-
-<!-- Java -->
-<img src="https://svgshare.com/i/17Bz.svg" width="120">
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-90%25-orange?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/Java-85%25-red?style=for-the-badge" height="35">
 
 </p>
 
 <p align="center">
 
-<!-- C++ -->
-<img src="https://svgshare.com/i/17C6.svg" width="120">
-
-<!-- C# -->
-<img src="https://svgshare.com/i/17C5.svg" width="120">
-
-<!-- Flutter -->
-<img src="https://svgshare.com/i/17Ca.svg" width="120">
-
-<!-- React Native -->
-<img src="https://svgshare.com/i/17Cb.svg" width="120">
+<img src="https://img.shields.io/badge/C++-70%25-blue?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/C%23-65%25-611f69?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/Flutter-78%25-2ec4b6?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/React%20Native-40%25-61dbfb?style=for-the-badge" height="35">
 
 </p>
 
 <p align="center">
 
-<!-- MySQL -->
-<img src="https://svgshare.com/i/17C1.svg" width="120">
-
-<!-- PL/SQL -->
-<img src="https://svgshare.com/i/17C0.svg" width="120">
-
-<!-- MongoDB -->
-<img src="https://svgshare.com/i/17C2.svg" width="120">
-
-<!-- StarUML -->
-<img src="https://svgshare.com/i/17C3.svg" width="120">
+<img src="https://img.shields.io/badge/MySQL-82%25-005c84?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/PL%2FSQL-75%25-ff6f00?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/MongoDB-60%25-4caf50?style=for-the-badge" height="35">
+<img src="https://img.shields.io/badge/StarUML-85%25-9933ff?style=for-the-badge" height="35">
 
 </p>
 
@@ -72,27 +54,25 @@
   <i>Leveling up every day — one line of code at a time 🚀</i>
 </p>
 
-
-<p align="center">
-  <i>More skills leveling up every day 🚀</i>
-</p>
-
+---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh74&theme=tokyo-night" />
 </p>
 
+---
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shubh74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
-## 🧩 Tech Universe
+---
 
+## 🧩 Tech Universe
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,flutter,python,js,html,css,react,nodejs,firebase,github,git,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,cpp,flutter,react,mysql,mongodb,github,git,figma,vscode&theme=dark" />
 </p>
 
 ---
@@ -127,7 +107,6 @@ Backend:
 
 Tools:
 ✔ Git & GitHub   ✔ VS Code   ✔ Postman   ✔ Figma   ✔ Firebase Console   ✔ Chrome DevTools
-
 
 
 🌱 Currently Learning
