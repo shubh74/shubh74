@@ -161,6 +161,13 @@ Gaming taught me:
 👉 https://shubh74.github.io/shubh-portfolio/
 
 ```
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📊 Neon GitHub Stats
 
 <p align="center">
