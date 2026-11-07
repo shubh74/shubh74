@@ -1,7 +1,7 @@
 <!-- ░░░ HERO ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,45:1b1b3a,100:3a1c71&height=230&section=header&text=Shubh%20Mehta&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Artist%20turned%20engineer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Shubh Mehta" />
+<img src="https://raw.githubusercontent.com/shubh74/shubh74/main/assets/hero.svg" width="100%" alt="Shubh Mehta — Artist turned engineer" />
 
 <a href="https://github.com/shubh74"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=720&lines=Independent+developer+from+Mumbai+%F0%9F%8F%94%EF%B8%8F;Building+JARVIS+%E2%80%94+a+local+AI+companion;Web+%C2%B7+Apps+%C2%B7+3D+%C2%B7+AI%2C+for+real+clients;Small+teams.+Ambitious+ideas.+Real+impact." alt="typing" /></a>
 
