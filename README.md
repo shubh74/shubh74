@@ -52,34 +52,7 @@ NEXT&nbsp;&nbsp;·&nbsp; ML engineer → my own products
 <!-- ░░░ STACK ░░░ -->
 ### Production palette
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-</p>
+<img src="https://raw.githubusercontent.com/shubh74/shubh74/main/assets/stack.svg" width="100%" alt="Tech stack: JavaScript, TypeScript, Python, Rust, React, Next.js, Node, Three.js, PostgreSQL, Redis, Tailwind, Flutter, C#, ASP.NET, Blender, Unity, Ollama" />
 
 <p align="center"><sub>tools chosen for the work, not the trend</sub></p>
 
@@ -88,12 +61,7 @@ NEXT&nbsp;&nbsp;·&nbsp; ML engineer → my own products
 <!-- ░░░ FEATURED ░░░ -->
 ### In the current cut
 
-| Building | What it is |
-|---|---|
-| **JARVIS** | Local-first AI companion & coding agent — persistent memory, semantic recall (Python · Ollama) |
-| **SageStock** | Fintech: real-time market data, broker connectivity, AI analysis (Rust · Axum · Postgres · Flutter) |
-| **The Analyst Club** | Learning community — analyst-led courses, assessments, live sessions |
-| **Minecraft AI agents** | Agents that follow instructions and use tools inside a game world |
+<img src="https://raw.githubusercontent.com/shubh74/shubh74/main/assets/projects.svg" width="100%" alt="Projects: JARVIS, SageStock, The Analyst Club, Minecraft AI agents" />
 
 **Client work** — [Westhide](https://westhide.co.in) · [SpaceBricks](https://spacebricks.in) · [Dravika Interiors](https://dravikainteriors.com) · [Sneha Arthues](https://snehaarthues.studio) · [Wearanake](https://wearanake.com) · [Chatkaro Foods](https://chatkarofoods.com)
 
