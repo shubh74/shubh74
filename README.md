@@ -106,19 +106,14 @@ NEXT&nbsp;&nbsp;·&nbsp; ML engineer → my own products
 
 ### By the numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubh74&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh74&hide_border=true&theme=tokyonight" height="165" alt="streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh74&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="150" alt="top langs" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=shubh74&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="trophies" />
+<img src="https://streak-stats.demolab.com?user=shubh74&theme=tokyonight&hide_border=true" height="170" alt="contribution streak" />
 
 </div>
 
 <!-- ░░░ CONTRIBUTION TRAIL ░░░ -->
 ### Contribution trail
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh74&theme=tokyo-night&hide_border=true&area=true&color=22d3ee&line=7c4dff&point=ffffff" width="100%" alt="activity graph" />
+<sub>My contribution graph, eaten by a snake 🐍 — regenerated every 12 h by a GitHub Action.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh74/shubh74/output/github-contribution-grid-snake-dark.svg" />
